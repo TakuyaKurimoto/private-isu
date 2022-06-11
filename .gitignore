@@ -16,3 +16,9 @@ portal/tmp
 !/portal/log/.keep
 /portal/tmp
 .vagrant
+
+
+.DS_Store
+webapp/logs/
+--format
+--no-stream
