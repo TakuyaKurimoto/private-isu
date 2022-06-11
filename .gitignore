@@ -19,6 +19,6 @@ portal/tmp
 
 
 .DS_Store
-webapp/logs/
+webapp/logs/*
 --format
 --no-stream
